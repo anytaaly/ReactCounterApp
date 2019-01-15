@@ -1,11 +1,2 @@
 # dependencies
-'node_modules'
-
-#Config
-/config
-
-# testing
-/coverage
-
-# production
-/build 
+node_modules/
