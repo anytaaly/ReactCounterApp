@@ -5,9 +5,9 @@ import "./App.css";
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        {" "}
-        <Counter />{" "}
+      <div>
+        <Counter /> <br /> <Counter /> <br />
+        <Counter />
       </div>
     );
   }
